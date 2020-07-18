@@ -1,4 +1,4 @@
-### Hi there 👋
+#프론트 엔드 ~ 백 엔드까지, 하드웨어등 다양하게 할줄 아는 맥가이버형 프로그래머 김세현입니다!
 
 <!--
 **SeHuyun-Kim04/SeHuyun-Kim04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
