@@ -7,5 +7,7 @@
 
 ### 대표적인 프로젝트
  - [Coronask](https://coronask.kr) (서비스 종료 예정)
+ - [자동화 자가진단(windows 10)](http://acs-program.kro.kr/) (핵심 기능 코드 공개 예정)
+ - [자동화 자가진단(안드로이드)] (심사대기중...)
  
 ### 추가적인 정보는 [여기](https://sehuyun-kim04.github.io/)로 이동해주세요!
