@@ -9,5 +9,6 @@
  - [Coronask](https://coronask.kr) (서비스 종료 예정)
  - [자동화 자가진단(windows 10)](http://acs-program.kro.kr/) ([핵심코드](https://github.com/SeHuyun-Kim04/Auto-Self-Check) 공개)
  - [자동화 자가진단(안드로이드, 원스토어)](https://onestore.co.kr/userpoc/apps/view?pid=0000750469#)
+ - [자동화 자가진단(안드로이드, 플레이 스토어)](https://play.google.com/store/apps/details?id=com.ksh.autoselfcheck)
  
 ### 추가적인 정보는 [여기](https://sehuyun-kim04.github.io/)로 이동해주세요!
