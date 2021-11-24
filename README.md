@@ -9,4 +9,4 @@
  - [자동화 자가진단(windows 10)] (서비스 종료) ([핵심코드](https://github.com/SeHuyun-Kim04/Auto-Self-Check) 공개) 
  - [자동화 자가진단(안드로이드)] (서비스 종료)
  
-### 추가적인 정보는 [여기](https://sehuyun-kim04.github.io/)로 이동해주세요!
+### 추가적인 정보는 [여기](https://sehyun-kim04.github.io/MakerKSH)로 이동해주세요!
